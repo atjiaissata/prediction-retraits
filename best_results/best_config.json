@@ -1,0 +1,14 @@
+{
+    "input_size": 17,
+    "num_epochs": 200,
+    "model_type": "GRU",
+    "dataset_id": "2",
+    "hidden_size": 40,
+    "num_layers": 1,
+    "learning_rate": 0.00016919411574688393,
+    "weight_decay": 0.00024650686147331886,
+    "batch_size": 16,
+    "date_pred": "01/03/2023",
+    "best_config_path": "../best_results/best_config.json",
+    "model_path": "../best_results/weight_saved.pt"
+}
