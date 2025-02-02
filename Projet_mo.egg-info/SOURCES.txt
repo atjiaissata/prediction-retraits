@@ -1,8 +1,0 @@
-setup.py
-Projet_mo.egg-info/PKG-INFO
-Projet_mo.egg-info/SOURCES.txt
-Projet_mo.egg-info/dependency_links.txt
-Projet_mo.egg-info/top_level.txt
-modules/bruit.py
-modules/models.py
-modules/training.py
